@@ -55,7 +55,7 @@ ______________________________________________________________________
 STEP3:
 
 CREATE TEMPLATE CREATE SOCIAL_APP FOLDER AND ADD INDEX.HTML
-
+```bash
 {% load socialaccount %}
 <!doctype html>
 
@@ -64,7 +64,7 @@ CREATE TEMPLATE CREATE SOCIAL_APP FOLDER AND ADD INDEX.HTML
  
 
 </html>
-
+```
 
 ______________________________________________________________
 STEP4:
